@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/euricopinto/assessing-blood-samples-for-malaria/Assessing-blood-samples-for-Malaria/openCVLibrary343/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/euricopinto/assessing-blood-samples-for-malaria/Assessing-blood-samples-for-Malaria/openCVLibrary343/src/debug/jniLibs"/></dataSet></merger>
