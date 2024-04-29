@@ -6,6 +6,9 @@ There are two folders on these project, the first one is about the Mobile App an
 
 Most of the techniques are firstly used under Python and then converted manually to an Android mobile app.
 
+- Final project report [here](finalProjectReport.pdf)
+- A simple summary [here](summaryPoster.pdf) 
+
 ## Getting Started
 
 These instructions will get you a copy of the Assessing blood samples for Malaria project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -77,4 +80,5 @@ Version 1
 ## Authors
 
 Eurico Pinto
+
 University of Essex
